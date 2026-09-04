@@ -54,8 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="Pandas" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/200px-SCIPY_2.svg.png" height="40" alt="scipy" title="SciPy" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="plotly" title="Plotly" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" title="Matplotlib" />
@@ -90,17 +88,4 @@
   <img src="https://img.shields.io/badge/-Interpolation-2b3137?style=for-the-badge&logoColor=white" alt="Interpolation"/>
   <img src="https://img.shields.io/badge/-Stochastic%20Calculus-2b3137?style=for-the-badge&logoColor=white" alt="Stochastic Calculus"/>
   <img src="https://img.shields.io/badge/-Differential%20Calculus-2b3137?style=for-the-badge&logoColor=white" alt="Differential Calculus"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrit1610-fin&show_icons=true&theme=radical&hide_border=true" alt="Amritanshu's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1610-fin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrit1610-fin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
