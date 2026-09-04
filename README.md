@@ -82,18 +82,13 @@
 ### 🧮 Quantitative & Mathematical Foundations
 
 <div align="left">
-  <!-- Probability (Dice) -->
-  <img src="https://img.icons8.com/color/48/dice.png" height="40" alt="Probability" title="Probability Theory" />
-  <img width="15" />
-  <!-- Matrices (Grid/Matrix) -->
-  <img src="https://img.icons8.com/color/48/border-all.png" height="40" alt="Matrices" title="Matrices & Linear Algebra" />
-  <img width="15" />
-  <!-- Interpolation (Scatter Plot/Curve) -->
-  <img src="https://img.icons8.com/color/48/scatter-plot.png" height="40" alt="Interpolation" title="Interpolation" />
-  <img width="15" />
-  <!-- Stochastic Calculus (Volatile Chart) -->
-  <img src="https://img.icons8.com/color/48/candlestick-chart.png" height="40" alt="Stochastic Calculus" title="Stochastic Calculus" />
-  <img width="15" />
-  <!-- Differential Calculus (Math Symbols) -->
-  <img src="https://img.icons8.com/color/48/math.png" height="40" alt="Calculus" title="Differential Calculus" />
+  <img src="https://img.shields.io/badge/🎲_Probability_Theory-0F172A?style=for-the-badge" alt="Probability Theory" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/🔢_Matrices_&_Linear_Algebra-0F172A?style=for-the-badge" alt="Matrices" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/📈_Interpolation-0F172A?style=for-the-badge" alt="Interpolation" />
+  <br /> <br /> <!-- Adds a line break so it doesn't squish on small screens -->
+  <img src="https://img.shields.io/badge/📉_Stochastic_Calculus-0F172A?style=for-the-badge" alt="Stochastic Calculus" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/📐_Differential_Calculus-0F172A?style=for-the-badge" alt="Differential Calculus" />
 </div>
