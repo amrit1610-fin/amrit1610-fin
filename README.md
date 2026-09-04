@@ -37,31 +37,45 @@
 
 #### ⚙️ Work Engines
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" title="Next.js"/>
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40" title="Python"/>
+  <!-- C++ -->
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40" title="C++"/>
+  <!-- R -->
+  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="r" width="40" height="40" title="R"/>
+  <!-- Next.js -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/100px-Nextjs-logo.svg.png" alt="nextjs" width="40" height="40" title="Next.js"/>
 </p>
 
 #### 🧰 Toolkit
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40" title="SciPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="40" height="40" title="Plotly"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" title="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" title="Scikit-Learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
+  <!-- Numpy -->
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="numpy" width="40" height="40" title="NumPy"/>
+  <!-- Pandas -->
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="40" height="40" title="Pandas"/>
+  <!-- SciPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/120px-SCIPY_2.svg.png" alt="scipy" width="40" height="40" title="SciPy"/>
+  <!-- Plotly -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/120px-Plotly-logo.png" alt="plotly" width="40" height="40" title="Plotly"/>
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40" title="Matplotlib"/>
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/120px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40" title="Scikit-Learn"/>
+  <!-- TensorFlow -->
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
 </p>
 
 #### 🚀 Spaces
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" title="MySQL"/>
+  <!-- Postman -->
+  <img src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman" width="40" height="40" title="Postman"/>
+  <!-- FastAPI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FastAPI_logo.svg/120px-FastAPI_logo.svg.png" alt="fastapi" width="40" height="40" title="FastAPI"/>
+  <!-- Docker -->
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40" title="Docker"/>
+  <!-- MySQL -->
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40" title="MySQL"/>
 </p>
-
 ---
 
 ### 🧮 Quantitative & Mathematical Foundations
