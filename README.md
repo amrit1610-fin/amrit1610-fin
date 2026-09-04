@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amritanshu</h1>
 <h3 align="center">A passionate Quant learner and Developer analyzing markets.</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Quantitative+Developer;Data+Scientist;Algorithmic+Trader" alt="Typing SVG" />
-</p>
-
-<!-- Animated Coding GIF (You can replace this URL with any GIF from Giphy/Tenor) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding.gif" width="450" alt="Coding and Trading" />
 </div>
 
 <br/>
 
-<!-- Social Media Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:YOUR.EMAIL@GMAIL.COM"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/amritanshu-kumar-singh/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:amritanshuofficial718@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -25,25 +18,51 @@
 
 * 🔭 I’m currently working on **Option Pricing Engines and Credit Risk Models**
 * 🌱 I’m currently learning **Advanced Stochastic Calculus and C++**
-* 👯 I’m looking to collaborate on **Open-source Algorithmic Trading systems**
+* 👯 I’m looking to collaborate on **Open-source Quantitative Research opportunities**
 * 💬 Ask me about **Python, Data Analysis, and Market Structures**
-* ⚡ Fun fact: **[Insert a brief, interesting fact about yourself]**
+* ⚡ Fun fact: **I also do Options trading under NSE**
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack & Ecosystem
+
+#### ⚙️ Work Engines
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" title="Next.js"/>
+</p>
+
+#### 🧰 Toolkit
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" title="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40" title="SciPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="40" height="40" title="Plotly"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" title="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" title="Scikit-Learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
+</p>
+
+#### 🚀 Spaces
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" title="MySQL"/>
+</p>
+
+---
+
+### 🧮 Quantitative & Mathematical Foundations
 
 <p align="left">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <!-- Jupyter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-Probability%20Theory-2b3137?style=for-the-badge&logoColor=white" alt="Probability Theory"/>
+  <img src="https://img.shields.io/badge/-Matrices%20%26%20Linear%20Algebra-2b3137?style=for-the-badge&logoColor=white" alt="Matrices"/>
+  <img src="https://img.shields.io/badge/-Interpolation-2b3137?style=for-the-badge&logoColor=white" alt="Interpolation"/>
+  <img src="https://img.shields.io/badge/-Stochastic%20Calculus-2b3137?style=for-the-badge&logoColor=white" alt="Stochastic Calculus"/>
+  <img src="https://img.shields.io/badge/-Differential%20Calculus-2b3137?style=for-the-badge&logoColor=white" alt="Differential Calculus"/>
 </p>
 
 ---
