@@ -81,10 +81,14 @@
 
 ### 🧮 Quantitative & Mathematical Foundations
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Probability%20Theory-2b3137?style=for-the-badge&logoColor=white" alt="Probability Theory"/>
-  <img src="https://img.shields.io/badge/-Matrices%20%26%20Linear%20Algebra-2b3137?style=for-the-badge&logoColor=white" alt="Matrices"/>
-  <img src="https://img.shields.io/badge/-Interpolation-2b3137?style=for-the-badge&logoColor=white" alt="Interpolation"/>
-  <img src="https://img.shields.io/badge/-Stochastic%20Calculus-2b3137?style=for-the-badge&logoColor=white" alt="Stochastic Calculus"/>
-  <img src="https://img.shields.io/badge/-Differential%20Calculus-2b3137?style=for-the-badge&logoColor=white" alt="Differential Calculus"/>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/🎲_Probability_Theory-0F172A?style=for-the-badge" alt="Probability Theory" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/🔢_Matrices_&_Linear_Algebra-0F172A?style=for-the-badge" alt="Matrices" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/📈_Interpolation-0F172A?style=for-the-badge" alt="Interpolation" />
+  <br /> <br /> <!-- Adds a line break so it doesn't squish on small screens -->
+  <img src="https://img.shields.io/badge/📉_Stochastic_Calculus-0F172A?style=for-the-badge" alt="Stochastic Calculus" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/📐_Differential_Calculus-0F172A?style=for-the-badge" alt="Differential Calculus" />
+</div>
