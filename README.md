@@ -3,14 +3,15 @@
 
 <br/>
 
-<!-- Dynamic Views, GIF, and Followers -->
+<!-- New Badge & Image Section (Static) -->
 <p align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=amrit1610-fin&color=blueviolet&style=flat" alt="Profile views" />
-  <img align="right" src="https://img.shields.io/github/followers/amrit1610-fin?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=amrit1610-fin&color=blueviolet&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp; <!-- Add some space -->
+  <img src="https://img.shields.io/github/followers/amrit1610-fin?label=Followers&style=social" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/28/70/cb/2870cb1628d0024cb51b2ea132205bf9.gif" width="500" alt="Coding and Trading in the dark" />
+  <img src="download.jpeg" alt="Amritanshu's Quant Brain" width="250" />
 </p>
 
 <br/>
