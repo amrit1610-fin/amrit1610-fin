@@ -36,44 +36,47 @@
 ### 🛠️ Tech Stack & Ecosystem
 
 #### ⚙️ Work Engines
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="40" height="40" title="Python"/>
-  <!-- C++ -->
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="cplusplus" width="40" height="40" title="C++"/>
-  <!-- R -->
-  <img src="https://cdn.simpleicons.org/r/276DC3" alt="r" width="40" height="40" title="R"/>
-  <!-- Next.js (White for dark mode) -->
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" width="40" height="40" title="Next.js"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r" title="R" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" title="Next.js" />
+</div>
+
+<br/>
 
 #### 🧰 Toolkit
-<p align="left">
-  <!-- Numpy -->
-  <img src="https://cdn.simpleicons.org/numpy/013243" alt="numpy" width="40" height="40" title="NumPy"/>
-  <!-- Pandas -->
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" width="40" height="40" title="Pandas"/>
-  <!-- SciPy -->
-  <img src="https://cdn.simpleicons.org/scipy/8CAA1C" alt="scipy" width="40" height="40" title="SciPy"/>
-  <!-- Plotly -->
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" alt="plotly" width="40" height="40" title="Plotly"/>
-  <!-- Scikit-learn -->
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="40" height="40" title="Scikit-Learn"/>
-  <!-- TensorFlow -->
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="tensorflow" width="40" height="40" title="TensorFlow"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" title="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" height="40" alt="scipy" title="SciPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="plotly" title="Plotly" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" title="Matplotlib" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="Scikit-Learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow" />
+</div>
+
+<br/>
 
 #### 🚀 Spaces
-<p align="left">
-  <!-- Postman -->
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman" width="40" height="40" title="Postman"/>
-  <!-- FastAPI -->
-  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="fastapi" width="40" height="40" title="FastAPI"/>
-  <!-- Docker -->
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40" title="Docker"/>
-  <!-- MySQL -->
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="40" height="40" title="MySQL"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" title="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" title="FastAPI" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
+</div>
 
 ---
 
