@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="download.jpeg" alt="Amritanshu's Quant Brain" width="800" />
+  <img src="download.jpeg" alt="Amritanshu's Quant Brain" width="550" />
 </p>
 
 <br/>
