@@ -1,5 +1,4 @@
-<h1 align="center">I'm Amritanshu Kumar Singh</h1>
-<h3 align="center">A passionate Quant learner and Developer analyzing markets.</h3>
+<h1 align="center">Amritanshu Kumar Singh</h1>
 
 <br/>
 
